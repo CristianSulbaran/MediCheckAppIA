@@ -2,7 +2,7 @@
 # MediCheck: Verificador de Síntomas con IA
 
 #### Especificaciones generales del proyecto
-Proyecto construido con **React (TypeScript)** y **Tailwind CSS**, desplegado en **Azure Static Web Apps**. Incluye un modelo tipo **Random Forest simulado** y una lógica para generar sugerencias mediante coincidencias de texto.
+Proyecto construido con **React (TypeScript)** y **Tailwind CSS**, desplegado en **Azure Static Web Apps**. Incluye un modelo tipo **Random Forest**.
 
 
 
